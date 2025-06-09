@@ -1,11 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "DataPipeline",
-    "displayName": "PL_ProcessTables"
+    "type": "MirroredDatabase",
+    "displayName": "spro-testapp1-database-cae"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "e7dd5267-37e2-b15a-4772-79aef52b457a"
+    "logicalId": "b574b762-10e9-b49f-499a-23dad3fa4d86"
   }
 }

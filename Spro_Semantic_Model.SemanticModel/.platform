@@ -1,11 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "DataPipeline",
-    "displayName": "PL_ProcessTables"
+    "type": "SemanticModel",
+    "displayName": "Spro_Semantic_Model"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "e7dd5267-37e2-b15a-4772-79aef52b457a"
+    "logicalId": "f2da8252-61e4-9636-4f51-8f19254f7205"
   }
 }
